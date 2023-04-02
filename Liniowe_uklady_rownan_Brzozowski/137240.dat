@@ -1,0 +1,23 @@
+Napisz program metodyPrzyblizone_nazwisko.cpp.
+Dana jest funkcja f(x)=1.4x^3 -268x + 497
+Oblicz miejsce zerowe funkcji f(x) czyli x0 takie, ¿e f(x0)=0 zak³adaj¹c, ¿e znajduje siê ono w przedziale <0 ,9>, dwoma poni¿szymi metodami:
+
+Zadanie 1
+Napisz funkcjê metoda_bisekcji, wyznaczaj¹c¹ miejsce zerowe funkcji f(x) metod¹ bisekcji. Przyjmij liczbê iteracji m = 10
+
+Prawid³owy wynik:
+x0 = 1.88965
+
+Zadanie 2
+Napisz funkcjê metoda_cieciw, wyznaczaj¹c¹ miejsce zerowe funkcji f(x) metod¹ cieciw. Przyjmij liczbê iteracji m = 10 oraz punkt sta³y pêku cieciw xk=0
+
+Prawid³owy wynik:
+x0 = 1.88973
+
+
+Rowi¹zannie nale¿y przes³aæ na platformê moodle.
+
+void metoda_bisekcji(double x)
+{
+    double x = (1.4 * (x * x * x)) - ((268 * x) + 497);
+}
