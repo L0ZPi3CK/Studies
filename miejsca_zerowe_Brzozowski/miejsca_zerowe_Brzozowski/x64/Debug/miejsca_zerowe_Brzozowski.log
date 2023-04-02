@@ -1,0 +1,4 @@
+﻿  miejsca_zerowe_Brzozowski.cpp
+C:\Users\student\source\repos\miejsca_zerowe_Brzozowski\miejsca_zerowe_Brzozowski\Funkcje.h(102,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\student\source\repos\miejsca_zerowe_Brzozowski\miejsca_zerowe_Brzozowski\Funkcje.h(190,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  miejsca_zerowe_Brzozowski.vcxproj -> C:\Users\student\source\repos\miejsca_zerowe_Brzozowski\x64\Debug\miejsca_zerowe_Brzozowski.exe
