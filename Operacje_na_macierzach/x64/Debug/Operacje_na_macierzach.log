@@ -1,4 +1,0 @@
-﻿  Operacje_na_macierzach.cpp
-E:\Operacje_na_macierzach\Operacje_na_macierzach\Operacje_na_macierzach.cpp(64,19): warning C4101: 'F': unreferenced local variable
-E:\Operacje_na_macierzach\Operacje_na_macierzach\Operacje_na_macierzach.cpp(196,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Operacje_na_macierzach.vcxproj -> E:\Operacje_na_macierzach\x64\Debug\Operacje_na_macierzach.exe

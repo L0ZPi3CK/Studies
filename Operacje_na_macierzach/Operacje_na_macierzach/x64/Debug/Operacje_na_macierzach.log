@@ -1,4 +1,0 @@
-﻿  Operacje_na_macierzach.cpp
-C:\Users\student\source\repos\Operacje_na_macierzach\Operacje_na_macierzach\Operacje_na_macierzach.cpp(60,19): warning C4101: "F": lokalna zmienna, do której nie istnieje odwołanie
-C:\Users\student\source\repos\Operacje_na_macierzach\Operacje_na_macierzach\Operacje_na_macierzach.cpp(174,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Operacje_na_macierzach.vcxproj -> C:\Users\student\source\repos\Operacje_na_macierzach\x64\Debug\Operacje_na_macierzach.exe

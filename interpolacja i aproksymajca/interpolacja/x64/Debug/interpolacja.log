@@ -1,4 +1,0 @@
-﻿  Aproksymacja_Brzozowski.cpp
-C:\Users\student\source\repos\interpolacja\interpolacja\Funkcje.h(101,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-C:\Users\student\source\repos\interpolacja\interpolacja\Funkcje.h(189,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  interpolacja.vcxproj -> C:\Users\student\source\repos\interpolacja\x64\Debug\interpolacja.exe
