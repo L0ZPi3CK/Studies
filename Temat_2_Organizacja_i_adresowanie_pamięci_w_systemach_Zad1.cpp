@@ -50,8 +50,6 @@ int main()
 	check(tmp_double);
 	check(tmp___m128i);
 	check(tmp___m256i);
-	
-	// Czasem dla m256i program pokazuje granicę 64 bajtow a czasem nawet 128 bajtow niezależnie czy stosuję kod poniżej czy powyżej
 
 	/*
 	__m256i tmp;
